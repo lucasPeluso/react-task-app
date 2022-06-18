@@ -2,6 +2,7 @@
   "name": "react-taskapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lucasPeluso.github.io/react-taskapp.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
