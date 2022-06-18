@@ -22,5 +22,3 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:lucasPeluso/react-taskapp.git main:gh-pages
-
-cd -
